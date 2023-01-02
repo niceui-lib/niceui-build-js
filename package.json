@@ -28,7 +28,7 @@
   "homepage": "https://github.com/niceui-lib/niceui-build-js#readme",
   "devDependencies": {
     "@types/lodash": "^4.14.158",
-    "microbundle": "^0.12.3"
+    "microbundle": "^0.15.1"
   },
   "dependencies": {
     "lodash": "^4.17.19"
